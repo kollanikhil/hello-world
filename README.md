@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repositor
+Hi this is kolla , and dumbest coder to enter github
